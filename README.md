@@ -1,4 +1,4 @@
-# Computational-Biology-1
+# Computational Biology 1
 
 First part of the course Computational Biology at Master of Science in Industrial and Applied Mathematics. 
 
